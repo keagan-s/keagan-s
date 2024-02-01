@@ -1,0 +1,3 @@
+- Hello, my name is Keagan
+- I'm currently a junior at UWW studying computer science
+- Email me at stoltzKA05@uww.edu
