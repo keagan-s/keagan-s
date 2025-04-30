@@ -1,3 +1,3 @@
 - Hello, my name is Keagan
-- I'm currently a senior at UWW studying computer science
-- Email me at stoltzKA05@uww.edu
+- I'm currently a tier 2 support technician at a law firm, but am always looking to expand my skills
+- Email me at keagan.stoltz@outlook.com
